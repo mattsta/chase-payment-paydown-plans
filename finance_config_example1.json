@@ -1,0 +1,9 @@
+{
+    "regular_apr": 27.0,
+    "payment_plans": [{
+        "purchase_amount": 1196.00,
+        "num_payments": 18,
+        "monthly_payment": 80.73,
+        "monthly_fee": 14.28
+    }]
+}
